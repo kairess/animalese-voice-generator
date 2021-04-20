@@ -6,7 +6,8 @@ import random, os
 os.makedirs('samples', exist_ok=True)
 os.makedirs('result', exist_ok=True)
 
-string = '안녕하세요 너굴 상회입니다'
+string = '안녕! 나는 귀염둥이 숟가락 스푼이야! 오늘은 이 에버랜드에 유명한 음식축제 ‘스프링 온 스푼’ 을 한다고 해서 초청 받았어 내 이름이 들어가서라나 뭐라나?! 특별히 나 스푼이가 에버랜드에 왔으니 내 위에 봄을 얹어보러 가자!'
+'
 random_factor = 0.35
 
 result_sound = None
